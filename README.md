@@ -27,7 +27,7 @@ Instrucciones de Uso
 
 ![image alt](https://github.com/mroma92/challenge-amigo-secreto/blob/3a3b8f91c8ffffe7311ee9580c55746aee643a6c/Inicial.jpg)
 ![image alt](https://github.com/mroma92/challenge-amigo-secreto/blob/7c7c1b753b65cee5ded1d7507df41f9e03645d61/A%C3%B1adir-nombres.jpg)
-![image alt](https://github.com/mroma92/challenge-amigo-secreto/blob/3de3be2328f28285afe23da84a36d74606ee67b5/Sortear-amigo.jpg)
+![image alt](https://github.com/mroma92/challenge-amigo-secreto/blob/bf972b9027623d94ab2a694b8f8c7ff7dce0a926/Amigo-sorteado.jpg)
 
 Código Principal
 
