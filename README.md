@@ -25,6 +25,8 @@ Instrucciones de Uso
 - Presiona el botón "Sortear" para seleccionar aleatoriamente un amigo secreto.
 - El resultado se mostrará en la pantalla y la lista de amigos se limpiará.
 
+![image alt](https://github.com/mroma92/challenge-amigo-secreto/blob/3a3b8f91c8ffffe7311ee9580c55746aee643a6c/Inicial.jpg)
+
 Código Principal
 
 El código principal de la aplicación se encuentra en un archivo JavaScript y realiza las siguientes tareas:
